@@ -30,7 +30,7 @@ This is an application system that combines functionalities of both calculating 
 - ExpressJs
 
 ## Installation
-1. Clone the repository: `git clone <your-repo-url>`
+1.Clone the repository: git clone https://github.com/AfridiSoftwareAce/MagicTimeTodoManager.git
 2. Navigate to the project directory: `cd your-repository`
 3. Install the dependencies: `npm install`
 4. Copy `.env.example` to `.env` and fill in the required variables, such as the MongoDB connection string.
